@@ -1,0 +1,8 @@
+.Button{
+      font-size: 2rem;
+      min-width:57px;
+      justify-content: center;
+      flex-wrap: wrap    ;
+      margin: 9px;
+      
+}
